@@ -30,6 +30,7 @@ This system recommends books by calculating similarities in Book Titles. For thi
 
 ### 5. Execution
 * Install the requirements
+* Download dataset from Kaggle, add to project folder and change dataset folder name to 'data'.
 * Run the book-recommender-system.ipynb file
 * Run app.py
 
